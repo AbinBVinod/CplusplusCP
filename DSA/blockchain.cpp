@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <cstring>
 
-const int DIFFICULTY = 5;
+const int DIFFICULTY = 4;
 
 struct Block {
     int index;
