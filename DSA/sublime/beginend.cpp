@@ -11,9 +11,9 @@ int main(){
      }
       cout << endl;
       vector<int> :: iterator it = v.begin();
-      //cout << (*(it+2)) << endl;
+      cout << (*(it+2)) << endl;
       for(it = v.begin(); it != v.end(); ++it){
-      	    cout<<(*it)<<endl;
+      	   cout<<(*it)<<endl;
       }
 
 
