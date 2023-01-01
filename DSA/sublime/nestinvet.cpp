@@ -25,10 +25,4 @@ int main(){
 
     pvect (v);
 
-
-
-
-
-
-
 }
